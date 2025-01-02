@@ -5,7 +5,7 @@ pubDate: 2024-12-25
 tags: ["webdev", "react", "frontend"]
 ---
 
-# Simplifying data fetching in React with a custom hook
+### Simplifying data fetching in React with a custom hook
 
 Fetching data in React can sometimes feel repetitive, especially if you're juggling multiple states for data, loading, and error handling. To streamline this, let me introduce a custom hook that makes data fetching clean, reusable, and easy to manage.
 
